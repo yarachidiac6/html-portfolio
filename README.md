@@ -1,2 +1,26 @@
 # html-portfolio
 launching my first website everrrr
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>yara's portfolio</title>
+</head>
+
+<body>
+<h1> Yara Chidiac's Portfolio</h1>
+<h2> I'm a Web Developer</h2>
+<hr noshade/>
+<h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
+
+    <img src="./assets/images/yaras movie-ranking.png" height="200">
+
+<p>
+<h3><a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
+    <img src="./assets/images/yaras birthday invitation.png" height="200">
+<hr noshade/>
+<a href="./public/about.html">About me</a>
+<a href="./public/contact.html">Contact me</a>
+</body>
+</html>
